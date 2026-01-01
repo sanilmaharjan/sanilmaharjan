@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, I'm Sanil Maharjan.  
-📧 Email: sanil.maharjan111@gmail.com  
 🎓 Currently pursuing BCA (6th semester) at NCCS (National College of Computer Studies).  
 🏫 Completed +2 from NCCS Higher Secondary School and SEE from Green Peace Co-Ed School.  
 
@@ -47,5 +46,9 @@ Hi, I'm Sanil Maharjan.
 ![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white&rounded=true)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&rounded=true)
 ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white&rounded=true)
+![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white&rounded=true)
+![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&rounded=true)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&rounded=true)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress&logoColor=white&rounded=true)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&rounded=true)
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&rounded=true)
