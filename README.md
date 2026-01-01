@@ -6,7 +6,7 @@ Hi, I'm Sanil Maharjan.
 💻 Skills & Certifications:  
 - Web Development: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL  
 - Programming: C, C#, Python, Java, Android (Java)  
-- UI/UX & Graphic Design: Figma, Photoshop, Illustrator, InDesign, CorelDRAW  
+- UI/UX & Graphic Design: Illustrator, InDesign, CorelDRAW  
 - Tools: Word, Excel, PowerPoint, Git & GitHub  
 
 📂 Notable Projects:  
@@ -23,32 +23,29 @@ Hi, I'm Sanil Maharjan.
 - Continually improving programming, web development, and UI/UX skills  
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&rounded=true)](https://behance.net/sanilmaharjan) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white&rounded=true)](https://facebook.com/sanil.maharjan.111) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&rounded=true)](https://instagram.com/sanil__maharjan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true)](https://linkedin.com/in/sanilmaharjan) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=Pinterest&logoColor=white&rounded=true)](https://pinterest.com/sanilmaharjan111) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=Reddit&logoColor=white&rounded=true)](https://reddit.com/user/sanilmaharjan) 
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&rounded=true)](https://stackoverflow.com/users/32128681) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white&rounded=true)](https://tiktok.com/@@maharjansanil) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=Twitch&logoColor=white&rounded=true)](https://twitch.tv/sanilmaharjan) 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white&rounded=true)](https://x.com/sanilmaharjan11) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&rounded=true)](mailto:sanil.maharjan111@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sanilmaharjan) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sanil.maharjan.111) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sanil__maharjan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanilmaharjan) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/sanilmaharjan111) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/sanilmaharjan) 
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32128681) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@@maharjansanil) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/sanilmaharjan) 
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sanilmaharjan11) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanil.maharjan111@gmail.com)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&rounded=true)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&rounded=true)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&rounded=true)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&rounded=true)
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white&rounded=true)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white&rounded=true)
-![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&rounded=true)
-![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white&rounded=true)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&rounded=true)
-![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white&rounded=true)
-![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white&rounded=true)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&rounded=true)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&rounded=true)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress&logoColor=white&rounded=true)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&rounded=true)
-![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&rounded=true)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
