@@ -20,7 +20,9 @@ Hi, I'm Sanil Maharjan.
 🎯 Learning & Interests:  
 - Recently started React + Vite from CodeWithHarry (YouTube) and planning to learn MERN stack  
 - Learned Git & GitHub basics from Apna College (YouTube)  
-- Continually improving programming, web development, and UI/UX skills  
+- Continually improving programming, web development, and UI/UX skills
+- 💡 Note:  
+Most of my project repositories are currently not public as they are **work-in-progress, experimental, or used for internal college assignments and learning purposes**. I focus on **quality, testing, and continuous improvement** before sharing full implementations.  
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/sanilmaharjan) 
